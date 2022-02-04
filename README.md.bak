@@ -5,7 +5,6 @@
 
 ## WHAT IS THIS?
 
-SLSGAMING.NET VERSION OF CIV13 2022
 Civ13 (formerly 1713) is a game based on Space Station 13 code, which features several epochs of human history. (hence the name). It features both RP and Combat maps and gamemodes.
 
 <kbd>
@@ -18,12 +17,11 @@ Civ13 (formerly 1713) is a game based on Space Station 13 code, which features s
 
 
 ## Official Website
-https://slsgaming.net
+https://civ13.com/
 
 
 ## Trello
-
-## https://trello.com/b/DW0RQAEX
+https://trello.com/b/DW0RQAEX
 
 
 ## Playing the game
@@ -55,7 +53,7 @@ You will need a windows machine or a virtual machine running it from another OS.
 ### Linux
 1. You will need a linux machine for the automated install, preferably Ubuntu. Open the command line.
  
-2. Download the INSTALL file. You can use ***wget https://raw.githubusercontent.com/slsdevs2022/Civ13-2022/master/INSTALL*** for it. If you don't have wget installed, use ***sudo apt install wget*** first.
+2. Download the INSTALL file. You can use ***wget https://raw.githubusercontent.com/Civ13/Civ13/master/INSTALL*** for it. If you don't have wget installed, use ***sudo apt install wget*** first.
 
 3. Use **sudo bash INSTALL** and it should install everything you need.
 
