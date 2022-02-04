@@ -130,19 +130,19 @@ SERVER 192.210.161.174:23999
 DONATIONURL https://www.patreon.com/1713ad
 
 ## rules address
-## RULESURL http://civ13.com/wiki/index.php?title=Rules
+RULESURL http://civ13.com/wiki/index.php?title=Rules
 
 ## discord address
-DISCORDURL https://slsgaming.net/discord
+DISCORDURL https://discord.gg/hBEtg4x
 
 ## Wiki address
 WIKIURL https://civ13.github.io/civ13-wiki/
 
 ## Website address
-WEBSITEURL https://slsgaming.net
+WEBSITEURL http://civ13.com/
 
 ##Github address
-GITHUBURL https://github.com/slsdevs2022/civ13-2022
+GITHUBURL https://github.com/civ13/civ13/
 
 ##Github repo id
 ##This can be found by going to https://api.github.com/users/<user name here>/repos
@@ -150,7 +150,7 @@ GITHUBURL https://github.com/slsdevs2022/civ13-2022
 # GITHUBREPOID 3234987
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-# BANAPPEALS https://slsgaming.net/discord
+# BANAPPEALS https://discord.gg/hBEtg4x
 
 ## Remove the # to show a popup 'reply to' window to every non-admin that recieves an adminPM.
 ## The intention is to make adminPMs more visible. (although I fnd popups annoying so this defaults to off)
